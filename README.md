@@ -14,7 +14,7 @@ Debe tener instalado Grand Theft Auto: San Andreas y San Andreas Multiplayer (en
 
 ## Instalación
 
-Descargue y ejecute la última versión del instalador.
+Descargue y ejecute la [última versión del instalador](https://github.com/Autorojo/lsrp-samp-launcher/releases/latest).
 
 Indique su carpeta de instalación de GTA San Andreas y San Andreas Multiplayer, luego instale el programa.
 
