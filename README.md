@@ -24,7 +24,7 @@ Si tiene errores durante la instalación, pruebe iniciando el instalador como ad
 
 Si tiene errores al ejecutar el programa, pruebe iniciando el programa como administrador. También puede configurar el programa para ejecutarse siempre como administrador (click derecho > Propiedades > Compatibilidad > Ejecutar este programa como administrador > Aceptar).
 
-Si tiene errores de otro tipo, compruebe el archivo `lsrp-samp-launcher.log` e inicie un issue.
+Si tiene errores de otro tipo, compruebe el archivo `lsrp-samp-launcher.log` e [inicie un issue](https://github.com/Autorojo/lsrp-samp-launcher/issues) o [publique una respuesta en el hilo del foro](https://samp.ls-rp.es/newreply.php?p=3809386&noquote=1).
 
 ## Detalles técnicos
 
